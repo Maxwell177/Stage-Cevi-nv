@@ -9,3 +9,12 @@ C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x
 C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Debug\StageCeviDriesMaxwell2012.pdb
 C:\Users\stage1\Documents\Visual Studio 2010\Projects\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\StageCeviDriesMaxwell2012.exe
 C:\Users\stage1\Documents\Visual Studio 2010\Projects\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\StageCeviDriesMaxwell2012.pdb
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\StageCeviDriesMaxwell2012.exe
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\StageCeviDriesMaxwell2012.pdb
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\bin\Debug\StageCeviDriesMaxwell2012.exe
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\bin\Debug\StageCeviDriesMaxwell2012.pdb
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\StageCeviDriesMaxwell2012.Beginscherm.resources
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\StageCeviDriesMaxwell2012.Properties.Resources.resources
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\stage2\Stage-Cevi-nv\StageCeviDriesMaxwell2012\StageCeviDriesMaxwell2012\obj\x86\Debug\GenerateResource.write.1.tlog
