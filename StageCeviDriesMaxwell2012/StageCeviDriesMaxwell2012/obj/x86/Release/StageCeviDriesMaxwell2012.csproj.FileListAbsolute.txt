@@ -1,0 +1,9 @@
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\bin\Release\StageCeviDriesMaxwell2012.exe
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\bin\Release\StageCeviDriesMaxwell2012.pdb
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Release\StageCeviDriesMaxwell2012.Form1.resources
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Release\StageCeviDriesMaxwell2012.Properties.Resources.resources
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Release\StageCeviDriesMaxwell2012.exe
+C:\Users\stage1\AppData\Local\Temporary Projects\StageCeviDriesMaxwell2012\obj\x86\Release\StageCeviDriesMaxwell2012.pdb
